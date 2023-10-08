@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>avro-examples</module>
+        <module>kafka-avro-v1</module>
     </modules>
 
     <properties>
