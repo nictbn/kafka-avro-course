@@ -1,0 +1,1 @@
+# This repo contains the source code and instructions for following the Confluent Schema Registry & REST Proxy  presented [here](https://www.udemy.com/course/confluent-schema-registry/)
